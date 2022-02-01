@@ -1,11 +1,11 @@
-# daytime-ejector-bed
+# explore-project-template
 
-![daytime-ejector-bed](banner.png)
+![explore-project-template](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/daytime-ejector-bed](https://projects.raspberrypi.org/en/projects/daytime-ejector-bed)
+Find the project online at [projects.raspberrypi.org/en/projects/explore-project-template](https://projects.raspberrypi.org/en/projects/explore-project-template)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/daytime-ejector-bed/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/daytime-ejector-bed/tree/master/en/solutions).
+For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/explore-project-template/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/explore-project-template/tree/master/en/solutions).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
