@@ -1,15 +1,17 @@
 ## Introduction
 
-Using a Raspberry Pi Build HAT and LEGO® Technic™ motor, make a LEGO bed that tips up at sunrise to stop a minifigure sleeping through the day. 
+Use a Raspberry Pi Build HAT and LEGO® Technic™ motor to build a LEGO bed that tips up at sunrise stopping a LEGO minifigure sleeping through the day. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 The <span style="color: #0faeb0">**Raspberry Pi Build HAT**</span> fits on top of a Raspberry Pi Computer and can control up to four LEGO® Technic™ motors and sensors at the same time.
+![desc](images/build-hat-hero.png){:width="300px"}
 </p>
+
 
 You will:
 + Connect a **Raspberry Pi Build HAT** to the **Raspberry Pi computer** and interact with a LEGO® build
-+ Program a **LEGO® Technic™ motor** using the **Python buildhat library**
-+ Use Python **time** objects to calculate differences and delay outputs
++ Program a **LEGO® Technic™ motor** using the Python buildhat library
++ Use Python time objects to calculate differences and delay outputs
 
 To complete this project you will need the following hardware:
 + A Raspberry Pi computer 
