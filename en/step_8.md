@@ -9,9 +9,9 @@ Summary or upgrade project task
 </div>
 </div>
 
-+ Create a daily alarm, update sunrise and sunset each day to prepare for the next instance
 + Upgrade to a 30 minute gradual tip up at sunrise for a more gentle wake up
 + Change the latitude and longitude to tell you when it’s sunrise and sunset in a location you’ve always wanted to visit
++ Reset the bed to lying position at a set time in the afternoon for a short siesta (but remember to tip it again as it's not the end of the day)
 
 --- collapse ---
 
