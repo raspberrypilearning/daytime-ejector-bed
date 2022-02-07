@@ -14,14 +14,14 @@ You will:
 
 ### You will need
 
-Hardware:
+**Hardware:**
 + A Raspberry Pi computer 
 + A Raspberry Pi Build HAT
 + A 7.5V power supply with a barrel jack
 + A LEGO® Technic™ motor
 + An assortment of LEGO® (from the LEGO® Education SPIKE™ Prime kit or other LEGO® sets)
 
-Software:
+**Software:**
 + Python 3
 + The Build HAT Python library
 
