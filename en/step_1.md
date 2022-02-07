@@ -41,10 +41,7 @@ This example shows a LEGO® daytime ejector bed in operation. Would you like to 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Whilst we don't recommend using an ejector bed yourself, <span style="color: #0faeb0">**a positive sleep routine**</span> is good for your physical and mental health. Here are some tips to motivate you to get up (that don't involve catapulting!):
-+ brighten up your room
-+ turn on some music
-+ place your alarm clock out of reach
+Whilst we don't recommend using an ejector bed yourself, <span style="color: #0faeb0">**a positive sleep routine**</span> is good for your physical and mental health. Here are some tips to motivate you to get up (that don't involve catapulting!). Brighten up your room, turn on some music, or place your alarm clock out of reach.
 </p>
 
 --- /no-print ---
