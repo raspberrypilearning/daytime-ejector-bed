@@ -4,21 +4,28 @@ Use a Raspberry Pi Build HAT and LEGO® Technic™ motor to build a LEGO bed tha
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 The <span style="color: #0faeb0">**Raspberry Pi Build HAT**</span> fits on top of a Raspberry Pi Computer and can control up to four LEGO® Technic™ motors and sensors at the same time.
-![desc](images/build-hat-hero.png){:width="300px"}
+![The Raspberry Pi Build HAT](images/build-hat-hero.png){:width="300px"}
 </p>
 
-
-You will:
+### You will
 + Connect a **Raspberry Pi Build HAT** to the **Raspberry Pi computer** and interact with a LEGO® build
 + Program a **LEGO® Technic™ motor** using the Python buildhat library
 + Use Python time objects to calculate differences and delay outputs
 
-To complete this project you will need the following hardware:
+To complete this project you will need:
+
+### Hardware
 + A Raspberry Pi computer 
 + A Raspberry Pi Build HAT
 + A 7.5V power supply with a barrel jack
 + A LEGO® Technic™ motor
 + An assortment of LEGO® (from the LEGO® Education SPIKE™ Prime kit or other LEGO® sets)
+
+### Software
++ Python 3
++ The Build HAT Python library
+
+You can follow our [Raspberry Pi Build HAT guide](https://projects.raspberrypi.org/en/projects/build-hat-guide){:target="_blank"} to set up your Raspberry Pi computer, connect the Raspberry Pi Build HAT and install the buildhat python library.
 
 --- no-print ---
 --- task ---
