@@ -7,21 +7,21 @@ The <span style="color: #0faeb0">**Raspberry Pi Build HAT**</span> fits on top o
 ![The Raspberry Pi Build HAT](images/build-hat-hero.png){:width="300px"}
 </p>
 
-### You will
-+ Connect a **Raspberry Pi Build HAT** to the **Raspberry Pi computer** and interact with a LEGO® build
+You will:
++ Connect a **Raspberry Pi Build HAT** to interact with a LEGO® build
 + Program a **LEGO® Technic™ motor** using the Python buildhat library
 + Use Python time objects to calculate differences and delay outputs
 
-To complete this project you will need:
+### You will need
 
-### Hardware
+Hardware:
 + A Raspberry Pi computer 
 + A Raspberry Pi Build HAT
 + A 7.5V power supply with a barrel jack
 + A LEGO® Technic™ motor
 + An assortment of LEGO® (from the LEGO® Education SPIKE™ Prime kit or other LEGO® sets)
 
-### Software
+Software:
 + Python 3
 + The Build HAT Python library
 
@@ -39,6 +39,14 @@ This example shows a LEGO® daytime ejector bed in operation. Would you like to 
 
 </div>
 --- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Whilst we don't recommend using an ejector bed yourself, <span style="color: #0faeb0">**a positive sleep routine**</span> is good for your physical and mental health. Here are some tips to motivate you to get up (that don't involve catapulting!):
++ brighten up your room
++ turn on some music
++ place your alarm clock out of reach
+</p>
+
 --- /no-print ---
 
 --- print-only ---
